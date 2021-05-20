@@ -3,7 +3,7 @@ Old PowerShell scripts for easy photo management in ActiveDirectory, Azure, Team
 It was working well as 'backend' in web (php) photo management application, but should work as standalone.
 
 ## How it works?
-Main file gets Active Directory user email, samAccountName and 300x300px image encoded in base64 format as imput and uploads it directly to Sharepoint Online, Exchange Online, Delve, Active Directory so you do not have to wait for replication process which could take from 24 hours to ∞.
+Main file gets Active Directory user email, samAccountName and 300x300px image encoded in base64 format as imput and uploads it directly to Sharepoint Online, Exchange Online/OnPremises, Delve, Active Directory so you do not have to wait for replication process which could take from 24 hours to ∞.
 
 ## Installation
 1. Clone this repository
